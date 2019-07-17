@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Jan Hoenig"
+	],
+	"copyright": "Copyright © 2019, Jan Hoenig",
+	"description": "Brainfuck generator in D",
+	"license": "proprietary",
+	"name": "drainfuck"
+}

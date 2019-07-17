@@ -1,0 +1,5 @@
+#!/bin/bash
+echo -n $1 > brainfuck_file
+dmd source/app.d -J.
+rm -f brainfuck_file
+./app
